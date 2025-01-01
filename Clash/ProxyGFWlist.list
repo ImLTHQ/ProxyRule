@@ -1,8 +1,5 @@
 # 代理列表
 
-# Spotify
-# DOMAIN-KEYWORD,spotify
-
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
@@ -56,6 +53,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
@@ -4676,7 +4674,6 @@ DOMAIN-SUFFIX,spideroak.com
 DOMAIN-SUFFIX,spike.com
 DOMAIN-SUFFIX,spotflux.com
 DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,open.spotify.com
 DOMAIN-SUFFIX,spreadshirt.es
 DOMAIN-SUFFIX,spring4u.info
 DOMAIN-SUFFIX,springboardplatform.com
