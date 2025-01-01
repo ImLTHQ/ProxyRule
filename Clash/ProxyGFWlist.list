@@ -2,8 +2,8 @@
 
 # Spotify
 # DOMAIN-KEYWORD,spotify
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,open.spotify.com
+# DOMAIN-SUFFIX,spotify.com
+# DOMAIN-SUFFIX,open.spotify.com
 
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
