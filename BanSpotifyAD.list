@@ -1,3 +1,6 @@
+# 新增屏蔽
+DOMAIN,aet.spotify.com
+
 # 新增禁止屏蔽（星号表示任意值）
 # *-spclient.spotify.com
 # *-dealer.spotify.com
