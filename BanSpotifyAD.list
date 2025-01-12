@@ -1,10 +1,11 @@
 # 新增屏蔽
-DOMAIN,aet.spotify.com
+
 
 # 新增禁止屏蔽（星号表示任意值）
 # *-spclient.spotify.com
 # *-dealer.spotify.com
 # spclient.wg.spotify.com
+# aet.spotify.com
 
 # Spotify 的反广告屏蔽服务器，会欺骗服务停止音乐服务（不要屏蔽这些！）：
 # gcdn.2mdn.net
