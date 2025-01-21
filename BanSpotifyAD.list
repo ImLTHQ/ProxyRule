@@ -1,5 +1,5 @@
 # 新增屏蔽
-audio-fa.scdn.co
+DOMAIN,audio-fa.scdn.co
 
 # 常见禁止屏蔽（星号表示任意值）
 # *-spclient.spotify.com
