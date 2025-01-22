@@ -4,9 +4,11 @@ DOMAIN-KEYWORD,doubleclick
 DOMAIN-KEYWORD,moatads
 DOMAIN-KEYWORD,comscore
 DOMAIN-KEYWORD,ash2-accesspoint
+DOMAIN-KEYWORD,ash2-weblb
 
 # 域名后缀
 DOMAIN-SUFFIX,cdn.spotify.com
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 
 #   Spotify 的反广告屏蔽服务器，会欺骗服务停止音乐服务（不要屏蔽这些！）：
 #   gcdn.2mdn.net
@@ -84,27 +86,10 @@ DOMAIN,analytics.spotify.com
 DOMAIN,apex.spotify.com
 DOMAIN,ap.spotify.com
 DOMAIN,ash2-msproxy-a6.ash2.spotify.com
-DOMAIN,ash2-weblb-wg169.ash2.spotify.com
-DOMAIN,ash2-weblb-wg1.ash2.spotify.com
-DOMAIN,ash2-weblb-wg2.ash2.spotify.com
-DOMAIN,ash2-weblb-wg3.ash2.spotify.com
-DOMAIN,ash2-weblb-wg4012.ash2.spotify.com
-DOMAIN,ash2-weblb-wg4.ash2.spotify.com
-DOMAIN,ash2-weblb-wg5.ash2.spotify.com
-DOMAIN,ash2-weblb-wg6.ash2.spotify.com
-DOMAIN,ash2-weblb-wg7.ash2.spotify.com
-DOMAIN,ash2-weblb-wg8373.ash2.spotify.com
-DOMAIN,ash2-weblb-wg934.ash2.spotify.com
-DOMAIN,ash2-weblb-wg9978.ash2.spotify.com
 DOMAIN,assets.spotify.com
 DOMAIN,audio2.spotify.com
-DOMAIN,audio4-akp.spotify.com.edgesuite.net
-DOMAIN,audio4-ak.spotify.com.edgesuite.net
-DOMAIN,audio-ake.spotify.com.edgesuite.net
 DOMAIN,audio-akp.spotify.com
-DOMAIN,audio-akp.spotify.com.edgesuite.net
 DOMAIN,audio-ak.spotify.com
-DOMAIN,audio-ak.spotify.com.edgesuite.net
 DOMAIN,audio-ak.spotify.com.eip.akadns.net
 DOMAIN,audio-cf.spotify.com
 DOMAIN,audio-ec.spotify.com
@@ -126,12 +111,8 @@ DOMAIN,gew1-accesspoint-b-dz71.ap.spotify.com
 DOMAIN,gew1-accesspoint-b-n2b0.ap.spotify.com
 DOMAIN,gew1-accesspoint-b-p520.ap.spotify.com
 DOMAIN,gew1-accesspoint-b-zg10.ap.spotify.com
-DOMAIN,heads4-akp.spotify.com.edgesuite.net
-DOMAIN,heads4-ak.spotify.com.edgesuite.net
 DOMAIN,heads-akp.spotify.com
-DOMAIN,heads-akp.spotify.com.edgesuite.net
 DOMAIN,heads-ak.spotify.com
-DOMAIN,heads-ak.spotify.com.edgesuite.net
 DOMAIN,heads-cf.spotify.com
 DOMAIN,heads-ec.spotify.com
 DOMAIN,heads-fab.spotify.com
