@@ -1,11 +1,4 @@
 # 新增屏蔽
-DOMAIN,sc1.admob.com
-DOMAIN,sc9.admob.com
-DOMAIN,beta.spotify.map.fastly.net
-DOMAIN,scdnco.spotify.map.fastly.net
-DOMAIN,sdcdn.com
-DOMAIN,search.spotxchange.com
-DOMAIN,secure.adnxs.com
 
 # Ad Services
 DOMAIN,a.admob.com
