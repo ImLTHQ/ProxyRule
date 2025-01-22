@@ -1,14 +1,3 @@
-# 域名关键词
-DOMAIN-KEYWORD,admob
-DOMAIN-KEYWORD,doubleclick
-DOMAIN-KEYWORD,moatads
-DOMAIN-KEYWORD,comscore
-DOMAIN-KEYWORD,adservice
-
-# 域名后缀
-DOMAIN-SUFFIX,cdn.spotify.com
-DOMAIN-SUFFIX,spotify.com.edgesuite.net
-
 #   Spotify 的反广告屏蔽服务器，会欺骗服务停止音乐服务（不要屏蔽这些！）：
 #   gcdn.2mdn.net
 #   r9---sn-n4v7kn76.c.2mdn.net
