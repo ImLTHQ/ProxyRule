@@ -1,5 +1,6 @@
 DOMAIN,xpui.app.spotify.com
 DOMAIN,e219f7087e393a74be0692f48717be51.safeframe.googlesyndication.com
+DOMAIN-SUFFIX,litix.io
 
 #   Spotify 的反广告屏蔽服务器，会欺骗服务停止音乐服务（不要屏蔽这些！）：
 #   gcdn.2mdn.net
