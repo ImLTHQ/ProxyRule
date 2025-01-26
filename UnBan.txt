@@ -1,0 +1,42 @@
+#   Spotify 的反广告屏蔽服务器，会欺骗服务停止音乐服务（不要屏蔽这些！）：
+#   gcdn.2mdn.net
+#   r9---sn-n4v7kn76.c.2mdn.net
+#   gew1-accesspoint-b-zzfg.ap.spotify.com
+#   ns1.p23.dynect.net
+#   ns3.p23.dynect.net
+#   ns4.p23.dynect.net
+#   dns1.p07.nsone.net
+#   dns2.p07.nsone.net
+#   dns3.p07.nsone.net
+#   dns4.p07.nsone.net
+#   audio-sp-fra2.pscdn.co
+#   104.199.65.11
+
+#   不要屏蔽下面的条目，它们是 Spotify 完全运行所必需的。
+#   apresolve.spotify.com <-- 访问点列表，也用于 Chromecast
+#   api-spotify.com
+#   api-partner.spotify.com
+#   api-tv.spotify.com
+#   ash-dealer.spotify.com <-- 负载均衡器
+#   ash.weblb-wg.dual-gslb.spotify.com <-- 负载均衡器
+#   audio-sp.spotify.com <-- 音频服务器!
+#   audio-fa.spotify.com <-- 音频服务器!
+#   dealer.spotify.com
+#   dealer-ssl.spotify.com
+#   gslb.spotify.com
+#   open.scdn.co
+#   open.spotify.com <-- 网页播放器，你可以只为应用屏蔽它
+#   play.spotify.com <-- 网页播放器，你可以只为应用屏蔽它
+#   spclient.spotify.com
+#   sto3.spotify.com
+#   wg.spotify.com <-- (*) 会破坏整个应用
+#   geo3.ggpht.com <-- 不要屏蔽！
+#   googlehosted.l.googleusercontent.com <-- 不要屏蔽！
+#   redirector.gvt1.com <-- 阻止安装 Firefox 和 Chrome 扩展程序
+
+#   可选：如果你想在电视上听音乐，或者为了封面图片，例如。
+#   tv.scdn.co
+#   i.scdn.co <-- 专辑封面
+#   o.scdn.co <-- 更多图片
+#   p.scdn.co <-- 可能是个人资料图片
+#   t.scdn.co <-- 可能是排行榜图片
