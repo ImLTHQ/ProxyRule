@@ -1,4 +1,5 @@
 DOMAIN,xpui.app.spotify.com
+DOMAIN,adclick.g.doubleclick.net
 
 #   Spotify 的反广告屏蔽服务器，会欺骗服务停止音乐服务（不要屏蔽这些！）：
 #   gcdn.2mdn.net
