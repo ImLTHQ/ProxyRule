@@ -1,3 +1,6 @@
+#   新增屏蔽
+DOMAIN,xpui.app.spotify.com
+
 #   Spotify 的反广告屏蔽服务器，会欺骗服务停止音乐服务（不要屏蔽这些！）：
 #   gcdn.2mdn.net
 #   r9---sn-n4v7kn76.c.2mdn.net
@@ -1062,7 +1065,6 @@ DOMAIN,zayit.ap.spotify.com
 DOMAIN,zayit.lon2.spotify.com
 DOMAIN,zayit.lon.spotify.com
 DOMAIN,zlink.app.spotify.com
-DOMAIN,xpui.app.spotify.com
 
 # Miscellaneous Tracking and Ads
 DOMAIN,100.141.83.34.bc.googleusercontent.com
