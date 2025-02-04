@@ -1,0 +1,44 @@
+# Spotify 的反广告屏蔽服务器，用于欺骗服务以停止音乐服务（不要屏蔽这些！）
+
+DOMAIN,gcdn.2mdn.net
+DOMAIN,r9---sn-n4v7kn76.c.2mdn.net
+DOMAIN,gew1-accesspoint-b-zzfg.ap.spotify.com
+DOMAIN,ns1.p23.dynect.net
+DOMAIN,ns3.p23.dynect.net
+DOMAIN,ns4.p23.dynect.net
+DOMAIN,dns1.p07.nsone.net
+DOMAIN,dns2.p07.nsone.net
+DOMAIN,dns3.p07.nsone.net
+DOMAIN,dns4.p07.nsone.net
+DOMAIN,audio-sp-fra2.pscdn.co
+IP-CIDR,104.199.65.11/32,no-resolve
+
+# 不要屏蔽以下条目，它们是 Spotify 完全正常运行所必需的
+
+DOMAIN,apresolve.spotify.com # 访问点列表，也用于 Chromecast
+DOMAIN,api-spotify.com
+DOMAIN,api-partner.spotify.com
+DOMAIN,api-tv.spotify.com
+DOMAIN,ash-dealer.spotify.com # 负载均衡器
+DOMAIN,ash.weblb-wg.dual-gslb.spotify.com # 负载均衡器
+DOMAIN,audio-sp.spotify.com # 音频服务器
+DOMAIN,audio-fa.spotify.com # 音频服务器
+DOMAIN,dealer.spotify.com
+DOMAIN,dealer-ssl.spotify.com
+DOMAIN,gslb.spotify.com
+DOMAIN,open.scdn.co
+DOMAIN,open.spotify.com # 网页播放器，你可以在只使用应用时屏蔽它
+DOMAIN,play.spotify.com # 网页播放器，你可以在只使用应用时屏蔽它
+DOMAIN,spclient.spotify.com
+DOMAIN,sto3.spotify.com
+DOMAIN-SUFFIX,wg.spotify.com # (*) 会破坏整个应用
+DOMAIN,geo3.ggpht.com # 只是不要屏蔽！
+DOMAIN,googlehosted.l.googleusercontent.com # 只是不要屏蔽！
+DOMAIN,redirector.gvt1.com # 阻止安装 Firefox & Chrome 扩展程序
+
+# 可选项：如果你想在电视上听音乐，或者需要封面图片，例如：
+DOMAIN,tv.scdn.co
+DOMAIN,i.scdn.co # 专辑封面
+DOMAIN,o.scdn.co # 更多图片
+DOMAIN,p.scdn.co # 可能是个人资料图片
+DOMAIN,t.scdn.co # 可能是排行榜的图片
