@@ -15,30 +15,31 @@ IP-CIDR,104.199.65.11/32,no-resolve
 
 # 不要屏蔽以下条目，它们是 Spotify 完全正常运行所必需的
 
-DOMAIN,apresolve.spotify.com # 访问点列表，也用于 Chromecast
+DOMAIN,apresolve.spotify.com
 DOMAIN,api-spotify.com
 DOMAIN,api-partner.spotify.com
 DOMAIN,api-tv.spotify.com
-DOMAIN,ash-dealer.spotify.com # 负载均衡器
-DOMAIN,ash.weblb-wg.dual-gslb.spotify.com # 负载均衡器
-DOMAIN,audio-sp.spotify.com # 音频服务器
-DOMAIN,audio-fa.spotify.com # 音频服务器
+DOMAIN,ash-dealer.spotify.com
+DOMAIN,ash.weblb-wg.dual-gslb.spotify.com
+DOMAIN,audio-sp.spotify.com
+DOMAIN,audio-fa.spotify.com
 DOMAIN,dealer.spotify.com
 DOMAIN,dealer-ssl.spotify.com
 DOMAIN,gslb.spotify.com
 DOMAIN,open.scdn.co
-DOMAIN,open.spotify.com # 网页播放器，你可以在只使用应用时屏蔽它
-DOMAIN,play.spotify.com # 网页播放器，你可以在只使用应用时屏蔽它
+DOMAIN,open.spotify.com
+DOMAIN,play.spotify.com
 DOMAIN,spclient.spotify.com
 DOMAIN,sto3.spotify.com
-DOMAIN-SUFFIX,wg.spotify.com # (*) 会破坏整个应用
-DOMAIN,geo3.ggpht.com # 只是不要屏蔽！
-DOMAIN,googlehosted.l.googleusercontent.com # 只是不要屏蔽！
-DOMAIN,redirector.gvt1.com # 阻止安装 Firefox & Chrome 扩展程序
+DOMAIN-SUFFIX,wg.spotify.com
+DOMAIN,geo3.ggpht.com
+DOMAIN,googlehosted.l.googleusercontent.com
+DOMAIN,redirector.gvt1.com
 
-# 可选项：如果你想在电视上听音乐，或者需要封面图片，例如：
+# 可选项：如果你想在电视上听音乐，或者需要封面图片
+
 DOMAIN,tv.scdn.co
-DOMAIN,i.scdn.co # 专辑封面
-DOMAIN,o.scdn.co # 更多图片
-DOMAIN,p.scdn.co # 可能是个人资料图片
-DOMAIN,t.scdn.co # 可能是排行榜的图片
+DOMAIN,i.scdn.co
+DOMAIN,o.scdn.co
+DOMAIN,p.scdn.co
+DOMAIN,t.scdn.co
