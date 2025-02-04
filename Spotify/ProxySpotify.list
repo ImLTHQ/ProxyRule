@@ -1,5 +1,4 @@
 # Spotify 的反广告屏蔽服务器，用于欺骗服务以停止音乐服务（不要屏蔽这些！）
-
 DOMAIN,gcdn.2mdn.net
 DOMAIN,r9---sn-n4v7kn76.c.2mdn.net
 DOMAIN,gew1-accesspoint-b-zzfg.ap.spotify.com
@@ -14,7 +13,6 @@ DOMAIN,audio-sp-fra2.pscdn.co
 IP-CIDR,104.199.65.11/32,no-resolve
 
 # 不要屏蔽以下条目，它们是 Spotify 完全正常运行所必需的
-
 DOMAIN,apresolve.spotify.com
 DOMAIN,api-spotify.com
 DOMAIN,api-partner.spotify.com
@@ -35,3 +33,9 @@ DOMAIN-SUFFIX,wg.spotify.com
 DOMAIN,geo3.ggpht.com
 DOMAIN,googlehosted.l.googleusercontent.com
 DOMAIN,redirector.gvt1.com
+
+# 可选项：如果你想在电视上听音乐，或者需要封面等
+DOMAIN,i.scdn.co # 专辑封面                                                                                     #
+DOMAIN,o.scdn.co # 更多图片                                                                                      #
+DOMAIN,p.scdn.co # 可能是个人资料图片                                                                             #
+DOMAIN,t.scdn.co # 可能是图表图片 
