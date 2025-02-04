@@ -35,11 +35,3 @@ DOMAIN-SUFFIX,wg.spotify.com
 DOMAIN,geo3.ggpht.com
 DOMAIN,googlehosted.l.googleusercontent.com
 DOMAIN,redirector.gvt1.com
-
-# 可选项：如果你想在电视上听音乐，或者需要封面图片
-
-DOMAIN,tv.scdn.co
-DOMAIN,i.scdn.co
-DOMAIN,o.scdn.co
-DOMAIN,p.scdn.co
-DOMAIN,t.scdn.co
