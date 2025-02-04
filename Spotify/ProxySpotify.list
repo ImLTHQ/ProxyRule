@@ -35,7 +35,7 @@ DOMAIN,googlehosted.l.googleusercontent.com
 DOMAIN,redirector.gvt1.com
 
 # 可选项：如果你想在电视上听音乐，或者需要封面等
-DOMAIN,i.scdn.co # 专辑封面                                                                                     #
-DOMAIN,o.scdn.co # 更多图片                                                                                      #
-DOMAIN,p.scdn.co # 可能是个人资料图片                                                                             #
-DOMAIN,t.scdn.co # 可能是图表图片 
+DOMAIN,i.scdn.co
+DOMAIN,o.scdn.co
+DOMAIN,p.scdn.co
+DOMAIN,t.scdn.co
