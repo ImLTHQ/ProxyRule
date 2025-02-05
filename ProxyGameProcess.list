@@ -1,4 +1,7 @@
-# 游戏平台进程
+# R星游戏平台进程
+PROCESS-NAME,RockstarService.exe
+PROCESS-NAME,SocialClubHelper.exe
+PROCESS-NAME,Launcher.exe
 
 # 游戏进程
 PROCESS-NAME,RDR2.exe
