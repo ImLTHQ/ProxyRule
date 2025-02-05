@@ -3,18 +3,15 @@ PROCESS-NAME,EALaunchHelper.exe
 PROCESS-NAME,EACefSubProcess.exe
 PROCESS-NAME,Link2EA.exe
 PROCESS-NAME,EABackgroundService.exe
-
-## R星进程
+# R星进程
 PROCESS-NAME,RockstarService.exe
 PROCESS-NAME,SocialClubHelper.exe
 PROCESS-NAME,Launcher.exe
-
-### Steam进程
+# Steam进程
 PROCESS-NAME,steam.exe
 PROCESS-NAME,steamservice.exe
 PROCESS-NAME,steamwebhelper.exe
-
-#### 游戏进程
+# 游戏进程
 PROCESS-NAME,cs2.exe
 PROCESS-NAME,RDR2.exe
 PROCESS-NAME,GTA5.exe
