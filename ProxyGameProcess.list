@@ -8,6 +8,9 @@ PROCESS-NAME,RockstarService.exe
 PROCESS-NAME,SocialClubHelper.exe
 PROCESS-NAME,Launcher.exe
 
+# EA进程
+PROCESS-NAME,EALaunchHelper.exe
+
 # 游戏进程
 PROCESS-NAME,cs2.exe
 PROCESS-NAME,RDR2.exe
