@@ -5,3 +5,5 @@ PROCESS-NAME,Launcher.exe
 
 # 游戏进程
 PROCESS-NAME,RDR2.exe
+PROCESS-NAME,GTA5.exe
+PROCESS-NAME,javaw.exe
