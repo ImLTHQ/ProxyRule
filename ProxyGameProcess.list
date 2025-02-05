@@ -10,6 +10,9 @@ PROCESS-NAME,Launcher.exe
 
 # EA进程
 PROCESS-NAME,EALaunchHelper.exe
+PROCESS-NAME,EACefSubProcess.exe
+PROCESS-NAME,Link2EA.exe
+PROCESS-NAME,EABackgroundService.exe
 
 # 游戏进程
 PROCESS-NAME,cs2.exe
