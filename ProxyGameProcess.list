@@ -1,3 +1,8 @@
+# Steam平台进程
+PROCESS-NAME,steam.exe
+PROCESS-NAME,steamservice.exe
+PROCESS-NAME,steamwebhelper.exe
+
 # R星平台进程
 PROCESS-NAME,RockstarService.exe
 PROCESS-NAME,SocialClubHelper.exe
